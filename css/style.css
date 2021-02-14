@@ -1,0 +1,22 @@
+/* FONT */
+@font-face {
+	font-family: 'Roboto-Slab';
+	src: url('../fonts/Roboto_Slab/RobotoSlab-VariableFont_wght.ttf');
+	src: url('../fonts/Roboto_Slab/RobotoSlab-VariableFont_wght.ttf') format('ttf'),
+	  url('../fonts/Roboto_Slab/RobotoSlab-VariableFont_wght.ttf') format('truetype');
+}
+
+/* MEDIA */
+/* @media only screen and (max-width: 671px) { */
+  /* For mobile phones: */
+  /* .menu {
+    display: inline-block;
+  }
+} */
+
+.navbar img {
+  width:30px;
+}
+.bg-light {
+  background-color: rgba(232, 245, 233, .1) !important;
+}
